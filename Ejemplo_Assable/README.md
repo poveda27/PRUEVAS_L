@@ -5,3 +5,5 @@ para ello usamos en base el 8086-emulator, que genera los guardados de los resul
 https://yjdoc2.github.io/8086-emulator-web/
 # información del programa 
 el programa va realiza la función de factorial del número 6, primero debe copilar la información y después se ejecuta el programa para ver el resultado.
+# Autor:
+- Juan Jesus Poveda Avila - 20202020128
